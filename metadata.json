@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Lualaba Connect",
+  "description": "Super-application provinciale pour le Lualaba : Messagerie, Santé IA, Marché Local et Actualités.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
